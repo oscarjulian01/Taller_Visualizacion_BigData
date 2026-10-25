@@ -1,0 +1,25 @@
+# Datasets grandes
+*.csv
+*.xlsx
+*.parquet
+
+# Scripts auxiliares locales
+generate_notebook.py
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.env/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
